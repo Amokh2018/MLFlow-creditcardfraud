@@ -1,0 +1,4 @@
+wget
+numpy==1.18.3
+pandas==0.24.2
+matplotlib==3.2.1
