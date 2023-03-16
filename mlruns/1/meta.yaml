@@ -1,0 +1,4 @@
+artifact_location: file:///Users/alimokh/GitHub/ML-creditcardfraud/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: scikit_learn_experiment

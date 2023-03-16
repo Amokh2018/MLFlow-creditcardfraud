@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alimokh/GitHub/ML-creditcardfraud/mlruns/2/97f51b3d572d498690b41d5874c66686/artifacts
+end_time: 1678981663466
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 97f51b3d572d498690b41d5874c66686
+run_uuid: 97f51b3d572d498690b41d5874c66686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678981661598
+status: 3
+tags: []
+user_id: alimokh
